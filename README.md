@@ -1,6 +1,6 @@
 # FLUID YOGA
 
-![Design preview for Netflix Clone](./design/desktop-design.jpg)
+![Design preview for Fluid Yoga](./design/desktop-design.jpg)
 
 ## Welcome! 👋
 
